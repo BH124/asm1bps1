@@ -1,0 +1,8 @@
+TrendID,ProductGroupID,TrendDescription,StartDate,EndDate,Region,SalesForecast,CompetitorAnalysis,MarketGrowthRate,CustomerSentiment,TrendScore
+1,1,Video marketing,2023-01-01,2022-12-31,North,100000,Competitive,0.05,Positive,8
+2,2,Content marketing,2023-02-01,2023-12-31,South,150000,Competitive,0.06,Neutral,7
+3,3,Influencer marketing,2023-03-01,2024-12-31,East,200000,Non-competitive,0.07,Positive,9
+4,4,Metaverse,2023-04-01,2023-12-31,West,120000,Competitive,0.04,Negative,6
+5,5,AI,2023-05-01,2023-12-31,North,110000,Non-competitive,0.05,Positive,8
+6,2,LinkedIn,2023-01-07,2023-12-07,South,6000,Non-competitive,0.11,Positive,8
+7,3,Organic SEO,2023-01-08,2023-12-08,West,7000,Non-competitive,0.19,Positive,8

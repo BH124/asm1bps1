@@ -1,0 +1,31 @@
+CustomerID,CustomerName,ContactNumber,Email,Address,City,State,Country,PostalCode,RegistrationDate
+1,John Doe,123456789,john.doe@example.com,123 Main St,New York,NY,USA,10001,2020-01-01
+2,Jane Smith,987654321,jane.smith@example.com,456 Maple Ave,Chicago,IL,USA,60601,2020-02-15
+3,Alice Brown,234567890,alice.brown@example.com,789 Oak St,Miami,FL,USA,33101,2020-03-20
+4,Bob Johnson,345678901,bob.johnson@example.com,321 Elm St,Seattle,WA,USA,98101,2020-04-25
+5,Carol White,456789012,carol.white@example.com,654 Birch Rd,Austin,TX,USA,73301,2020-05-30
+6,David Green,567890123,david.green@example.com,987 Pine St,Dallas,TX,USA,75201,2020-06-15
+7,Emma Black,678901234,emma.black@example.com,123 Cedar St,Atlanta,GA,USA,30301,2020-07-10
+8,Frank Brown,789012345,frank.brown@example.com,456 Spruce St,Denver,CO,USA,80201,2020-08-20
+9,Grace White,890123456,grace.white@example.com,789 Palm St,Orlando,FL,USA,32801,2020-09-15
+10,Henry Green,901234567,henry.green@example.com,321 Willow St,Boston,MA,USA,2101,2020-10-10
+11,Irene Black,12345678,irene.black@example.com,123 Oakwood St,Phoenix,AZ,USA,85001,2020-11-05
+12,Jack White,234567890,jack.white@example.com,456 Redwood St,Portland,OR,USA,97201,2020-12-10
+13,Kevin Brown,345678901,kevin.brown@example.com,789 Cedar St,San Jose,CA,USA,95101,2021-01-05
+14,Laura Green,456789012,laura.green@example.com,321 Maple St,Las Vegas,NV,USA,89101,2021-02-10
+15,Mike Black,567890123,mike.black@example.com,123 Birch St,Sacramento,CA,USA,94203,2021-03-15
+16,Nina White,678901234,nina.white@example.com,456 Elm St,Columbus,OH,USA,43085,2021-04-20
+17,Owen Brown,789012345,owen.brown@example.com,789 Pine St,Charlotte,NC,USA,28201,2021-05-25
+18,Paul Green,890123456,paul.green@example.com,321 Oak St,Indianapolis,IN,USA,46201,2021-06-30
+19,Quinn Black,901234567,quinn.black@example.com,123 Cedar Rd,Fort Worth,TX,USA,76101,2021-07-05
+20,Rachel White,12345678,rachel.white@example.com,456 Birch Rd,Baltimore,MD,USA,21201,2021-08-10
+21,Steve Brown,234567890,steve.brown@example.com,789 Pine St,Milwaukee,WI,USA,53201,2021-09-15
+22,Tina Green,345678901,tina.green@example.com,321 Maple St,Nashville,TN,USA,37201,2021-10-20
+23,Uma Black,456789012,uma.black@example.com,123 Oakwood St,Louisville,KY,USA,40201,2021-11-25
+24,Victor White,567890123,victor.white@example.com,456 Spruce St,Detroit,MI,USA,48201,2021-12-30
+25,Wendy Brown,678901234,wendy.brown@example.com,789 Cedar St,Memphis,TN,USA,37501,2022-01-05
+26,Xavier Green,789012345,xavier.green@example.com,321 Willow St,Raleigh,NC,USA,27601,2022-02-10
+27,Yvonne Black,890123456,yvonne.black@example.com,123 Oakwood St,Richmond,VA,USA,23218,2022-03-15
+28,Zach White,901234567,zach.white@example.com,456 Redwood St,Kansas City,MO,USA,64101,2022-04-20
+29,Adam Brown,12345678,adam.brown@example.com,789 Cedar St,Minneapolis,MN,USA,55401,2022-05-25
+30,Peter Parker,234567890,peter.parker@example.com,987 Pine St,Dallas,TX,USA,75201,2020-12-10

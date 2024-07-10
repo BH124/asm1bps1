@@ -1,0 +1,6 @@
+ProductGroupID,GroupName,GroupDescription,Category,SubCategory,ParentGroupID,CreateDate,UpdateDate,IsActive,Priority
+1,Group 1,Description 1,Category 2,SubCategory 2,,1/1/2020,1/1/2023,1,High
+2,Group 2,Description 2,Category 3,SubCategory 3,,1/1/2020,1/1/2023,1,High
+3,Group 3,Description 3,Category 1,SubCategory 1,,1/1/2020,1/1/2023,1,High
+4,Group 4,Description 4,Category 2,SubCategory 2,,1/1/2020,1/1/2023,1,High
+5,Group 5,Description 5,Category 3,SubCategory 3,,1/1/2020,1/1/2023,1,High

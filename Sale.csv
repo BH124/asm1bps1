@@ -1,0 +1,31 @@
+SaleID,ProductID,CustomerID,SaleDate,Quantity,UnitPrice,TotalAmount,PaymentMethod,SalesChannel,Region
+1,2,2,2023-01-02,2,101,202,Credit Card,Online,North
+2,3,3,2023-01-03,3,102,306,PayPal,Online,South
+3,4,4,2023-01-04,4,103,412,Cash,Online,East
+4,5,5,2023-01-05,5,104,520,PayPal,Online,North
+5,6,6,2023-01-06,1,105,105,Credit Card,Online,South
+6,7,7,2023-01-07,2,106,212,PayPal,Online,East
+7,8,8,2023-01-08,3,107,321,Cash,Online,West
+8,9,9,2023-01-09,4,108,432,Credit Card,Online,North
+9,10,10,2023-01-10,5,109,545,PayPal,Online,South
+10,1,11,2023-01-11,1,100,100,Cash,Online,North
+11,2,12,2023-01-12,2,101,202,PayPal,Online,South
+12,3,13,2023-01-13,3,102,306,Credit Card,Online,East
+13,4,14,2023-01-14,4,103,412,PayPal,Online,North
+14,5,15,2023-01-15,5,104,520,Cash,Online,South
+15,6,16,2023-01-16,1,105,105,PayPal,Online,East
+16,7,17,2023-01-17,2,106,212,Credit Card,Online,West
+17,8,18,2023-01-18,3,107,321,PayPal,Online,North
+18,9,19,2023-01-19,4,108,432,Cash,Online,North
+19,10,20,2023-01-20,5,109,545,PayPal,Online,North
+20,1,21,2023-01-21,1,100,100,Credit Card,Online,South
+21,2,22,2023-01-22,2,101,202,PayPal,Online,East
+22,3,23,2023-01-23,3,102,306,Credit Card,Online,North
+23,4,24,2023-01-24,4,103,412,PayPal,Online,South
+24,5,25,2023-01-25,5,104,520,Cash,Online,East
+25,6,26,2023-01-26,1,105,105,PayPal,Online,West
+26,7,27,2023-01-27,2,106,212,Credit Card,Online,North
+27,8,28,2023-01-28,3,107,321,PayPal,Online,North
+28,9,29,2023-01-29,4,108,432,Cash,Online,South
+29,10,30,2023-01-30,5,109,545,PayPal,Online,East
+30,1,1,2023-01-01,1,100,100,Credit Card,Online,West

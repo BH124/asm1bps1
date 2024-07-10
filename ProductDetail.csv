@@ -1,0 +1,6 @@
+ProductID,ProductGroupID,ProductName,Category,Price,Manufacturer,WarrantyPeriod,StockQuantity,ReorderLevel,Supplier,Rating,LaunchDate
+1,1,TV,Electronics,500,ABC Corp,2 years,50,10,Supplier1,4.5,1/1/2020
+2,2,Laptop,Electronics,1000,XYZ Inc,1 year,30,5,Supplier2,4.8,2/1/2020
+3,3,Smartphone,Electronics,800,ABC Corp,1 year,70,20,Supplier3,4.7,3/1/2020
+4,4,Headphones,Accessories,100,XYZ Inc,6 months,100,15,Supplier4,4.3,4/1/2020
+5,5,Camera,Electronics,600,ABC Corp,1 year,20,5,Supplier5,4.6,5/1/2020
